@@ -1,0 +1,14 @@
+C:\Users\a0103\OneDrive\바탕 화면\게임만들기\bin\Debug\게임만들기.exe.config
+C:\Users\a0103\OneDrive\바탕 화면\게임만들기\bin\Debug\게임만들기.exe
+C:\Users\a0103\OneDrive\바탕 화면\게임만들기\bin\Debug\게임만들기.pdb
+C:\Users\a0103\OneDrive\바탕 화면\게임만들기\obj\Debug\게임만들기.csproj.AssemblyReference.cache
+C:\Users\a0103\OneDrive\바탕 화면\게임만들기\obj\Debug\게임만들기.csproj.CoreCompileInputs.cache
+C:\Users\a0103\OneDrive\바탕 화면\게임만들기\obj\Debug\게임만들기.exe
+C:\Users\a0103\OneDrive\바탕 화면\게임만들기\obj\Debug\게임만들기.pdb
+C:\Users\admin\Desktop\game-main\게임만들기\bin\Debug\게임만들기.exe.config
+C:\Users\admin\Desktop\game-main\게임만들기\bin\Debug\게임만들기.exe
+C:\Users\admin\Desktop\game-main\게임만들기\bin\Debug\게임만들기.pdb
+C:\Users\admin\Desktop\game-main\게임만들기\obj\Debug\게임만들기.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\game-main\게임만들기\obj\Debug\게임만들기.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\game-main\게임만들기\obj\Debug\게임만들기.exe
+C:\Users\admin\Desktop\game-main\게임만들기\obj\Debug\게임만들기.pdb
